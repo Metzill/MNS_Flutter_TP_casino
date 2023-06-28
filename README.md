@@ -1,6 +1,6 @@
 # casino
 
-A new Flutter project.
+TP de Flutter réalisé dans le cadre du module de Flutter à MNS par KREMER Hugo
 
 ## Getting Started
 
